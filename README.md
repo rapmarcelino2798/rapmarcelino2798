@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <your name> 👋</h1>
+  <h1>Hi there, I'm Raphael Marcelino👋</h1>
   <p align="center">
     <strong>Next.js Full-Stack Developer | Performance Enthusiast | UI/UX Focused</strong>
   </p>
@@ -10,10 +10,10 @@
 ### 🚀 About Me
 I specialize in building high-performance, SEO-friendly web applications using the **Next.js App Router** and the **T3 Stack**. I'm passionate about Server Components, edge runtime optimization, and creating seamless user experiences.
 
-- 🔭 I’m currently working on [Project Name]
+- 🔭 I’m currently working on NIDL
 - 🌱 I’m currently learning **Advanced Framer Motion** & **Rust**
 - 💬 Ask me about **Next.js, TypeScript, and Tailwind CSS**
-- 📫 Reach me at: [yourname@email.com]
+- 📫 Reach me at: work.raphael.marcelino@gmail.com
 
 ### 🛠 Tech Stack
 <div align="left">
@@ -38,8 +38,7 @@ I specialize in building high-performance, SEO-friendly web applications using t
 </p>
 
 ### 💻 Latest Projects
-- [**Project Title**](link-to-repo) - A Next.js 15 SaaS boilerplate featuring Auth.js and Stripe integration.
-- [**Portfolio v2**](link-to-repo) - High-performance personal site built with Next.js, MDX, and Framer Motion.
+- NIDL(https://github.com/rapmarcelino2798/nidl) - A Next.js application for piercing business.
 
 <hr />
 
