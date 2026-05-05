@@ -18,24 +18,13 @@ I specialize in building high-performance, SEO-friendly web applications using t
 ### 🛠 Tech Stack
 <div align="left">
   <!-- Core Frameworks -->
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="TypeScript" />
   
   <!-- Styling & State -->
-  <img src="https://shields.io" alt="Tailwind CSS" />
-  <img src="https://shields.io" alt="React Query" />
-  
-  <!-- Tools & Backend -->
-  <img src="https://shields.io" alt="Prisma" />
-  <img src="https://shields.io" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
 </div>
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
 
 ### 💻 Latest Projects
 - NIDL (https://github.com/rapmarcelino2798/nidl) - A Next.js application for piercing business.
