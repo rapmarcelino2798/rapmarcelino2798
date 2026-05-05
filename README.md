@@ -43,10 +43,7 @@ I specialize in building high-performance, SEO-friendly web applications using t
 <hr />
 
 <div align="center">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/raphaelmarcelino27/">
     <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://shields.io" alt="Twitter" />
-  </a>
+  </a
 </div>
