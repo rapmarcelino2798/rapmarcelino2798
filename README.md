@@ -38,7 +38,7 @@ I specialize in building high-performance, SEO-friendly web applications using t
 </p>
 
 ### 💻 Latest Projects
-- NIDL(https://github.com/rapmarcelino2798/nidl) - A Next.js application for piercing business.
+- NIDL (https://github.com/rapmarcelino2798/nidl) - A Next.js application for piercing business.
 
 <hr />
 
